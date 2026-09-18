@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Murmuration",
+      "hasCanvas": true,
+      "bodyTextLen": 155,
+      "bodyTextHash": "ff211ced458709a77c2083806fc251505272a3b7f1ea440a23997d760dfcd673",
+      "bodyTextPrefix": "鸟群 — 集群运动模拟 鸟群 分离 · 对齐 · 聚合 180 分离 Separation 1.55 对齐 Alignment ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Murmuration",
+      "hasCanvas": true,
+      "bodyTextLen": 27,
+      "bodyTextHash": "7813d4ef85d07f3979de21a287b19082d901d7eea790d3455bcd7dc91000fb43",
+      "bodyTextPrefix": "鸟群 — 集群运动模拟 鸟群 分离 · 对齐 · 聚合",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
